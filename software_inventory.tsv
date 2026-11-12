@@ -1,0 +1,10 @@
+﻿component	version	scope
+pandas	2.2.3	packaging runtime; historical versions use original logs
+numpy	2.3.5	packaging runtime; historical versions use original logs
+openpyxl	3.1.5	packaging runtime; historical versions use original logs
+pypdf	6.10.0	packaging runtime; historical versions use original logs
+matplotlib	not installed in packaging runtime	packaging runtime; historical versions use original logs
+scipy	not installed in packaging runtime	packaging runtime; historical versions use original logs
+reghdfe.ado	*! version 6.13.1 10Jan2026	local ado header; sha256 0c700ea38de4ed110d0cbb57acd3e24351a5ab68b61dd84fcb0e5bc8f02d941a
+ftools.ado	"*! version 2.50.0 09jan2026 | 		ms_get_version ftools // included in this package"	local ado header; sha256 c7eba3272b5fcd1dfa157e65c37840a051c6e2bf327d5ee31d42df65cf330b00
+drdid.ado	* Ver 1.7 adds version for easier update	local ado header; sha256 242dd51923580cda80b28f1b00512b9f95666db989825c46a9fad21d87dcfc9f
