@@ -1,0 +1,10 @@
+{
+  "source_filename": "选题建议.docx",
+  "repository_filename": "Advisor_Topic_Guidance.docx",
+  "bytes": 13222,
+  "sha256": "04e7c8688dda46c9fd6ce76cdf161be4fffa8dcf36877fa87480c458737020b4",
+  "original_modified": false,
+  "body_paragraphs_transcribed": 2,
+  "scope": "Original advisor guidance plus navigation/read-order changes; no empirical execution",
+  "render_review": "Original source unchanged. Renderer showed missing Chinese glyphs; no layout PASS claimed. Complete OOXML body transcribed for GitHub reading; footnotes contained separators only."
+}
