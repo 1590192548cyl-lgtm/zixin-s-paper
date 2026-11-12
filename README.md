@@ -1,3 +1,5 @@
+> **最小重建资料补充（2026-11-12）：** 已按原来源记录核对版本并补传本地控制原表、年度股东来源、年报索引元数据及路径准备工具。先读[MINIMAL_REBUILD_START_HERE.md](MINIMAL_REBUILD_START_HERE.md)，再读[RUN_ORDER.md](RUN_ORDER.md)和[MISSING_INPUTS.md](MISSING_INPUTS.md)。本轮只归档与路径准备，未构造变量、重算SYN或运行回归；没有宣称端到端复现已通过。旧档保留，不覆盖原结果。
+
 ## 给接手AI的第一入口
 
 请先完整阅读 [AI_HANDOFF_PROMPT.md](AI_HANDOFF_PROMPT.md)，再按其中顺序读取交接文档。该提示词包含Gao与黄炳艺两条路径、当前结果、未决问题及下一步。**第一轮只读取、核对和汇报，不自动重跑回归、重算SYN或修改数据。**

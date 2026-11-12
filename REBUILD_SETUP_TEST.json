@@ -1,0 +1,9 @@
+{
+  "read_only_path_check": "PASS",
+  "mismatched_hash_rejected": "PASS",
+  "tested_raw_sources": 22,
+  "raw_sources_unchanged": true,
+  "materialize_executed": false,
+  "research_programs_executed": false,
+  "helper_syntax": "PASS"
+}

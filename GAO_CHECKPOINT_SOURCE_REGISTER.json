@@ -1,0 +1,122 @@
+[
+  {
+    "source_id": "balance",
+    "path": "/Users/macpro/Desktop/控制变量/资产合计负债合计所有者权益合计/FS_Combas.xlsx",
+    "signature": "32419635:1786413100000000000",
+    "rows_seen": 598721,
+    "rows_kept": 263480,
+    "completed_at": "2026-08-11T15:48:08"
+  },
+  {
+    "source_id": "income",
+    "path": "/Users/macpro/Desktop/控制变量/营业利润净利润/FS_Comins.xlsx",
+    "signature": "21585056:1786413130000000000",
+    "rows_seen": 598859,
+    "rows_kept": 131740,
+    "completed_at": "2026-08-11T15:48:43"
+  },
+  {
+    "source_id": "cfo",
+    "path": "/Users/macpro/Desktop/控制变量/经营活动产生的现金流量净额/FS_Comscfd.xlsx",
+    "signature": "16347329:1785994462000000000",
+    "rows_seen": 583695,
+    "rows_kept": 64317,
+    "completed_at": "2026-08-11T15:49:13"
+  },
+  {
+    "source_id": "eps",
+    "path": "/Users/macpro/Desktop/控制变量/每股收益/FI_T9.xlsx",
+    "signature": "14148334:1786413278000000000",
+    "rows_seen": 500632,
+    "rows_kept": 64318,
+    "completed_at": "2026-08-11T15:49:42"
+  },
+  {
+    "source_id": "loss",
+    "path": "/Users/macpro/Desktop/控制变量/归属于股东的扣非净利润/FI_T2.xlsx",
+    "signature": "6817956:1786413440000000000",
+    "rows_seen": 254911,
+    "rows_kept": 61126,
+    "completed_at": "2026-08-11T15:49:54"
+  },
+  {
+    "source_id": "market",
+    "path": "/Users/macpro/Desktop/控制变量/总市值/TRD_Year.xlsx",
+    "signature": "1772314:1785996210000000000",
+    "rows_seen": 62059,
+    "rows_kept": 60482,
+    "completed_at": "2026-08-11T15:49:58"
+  },
+  {
+    "source_id": "inst",
+    "path": "/Users/macpro/Desktop/控制变量/机构投资者持股比例_两职合一_独立董事占比/BDT_ManaGovAbil.xlsx",
+    "signature": "1955127:1785995086000000000",
+    "rows_seen": 61832,
+    "rows_kept": 61739,
+    "completed_at": "2026-08-11T15:50:03"
+  },
+  {
+    "source_id": "top",
+    "path": "/Users/macpro/Desktop/控制变量/第一大股东持股比例/EN_EquityNatureAll.xlsx",
+    "signature": "1329709:1785994942000000000",
+    "rows_seen": 62635,
+    "rows_kept": 61032,
+    "completed_at": "2026-08-11T15:50:07"
+  },
+  {
+    "source_id": "analyst",
+    "path": "/Users/macpro/Desktop/控制变量/分析师数量/AF_CFEATUREPROFILE.xlsx",
+    "signature": "1290759:1786413542000000000",
+    "rows_seen": 63669,
+    "rows_kept": 38999,
+    "completed_at": "2026-08-11T15:50:10"
+  },
+  {
+    "source_id": "monthly",
+    "path": "/Users/macpro/Desktop/控制变量/月个股收益率/TRD_Mnth.xlsx",
+    "signature": "14487370:1786429556000000000",
+    "rows_seen": 762446,
+    "rows_kept": 719564,
+    "completed_at": "2026-08-11T15:50:42"
+  },
+  {
+    "source_id": "subs1",
+    "path": "/Users/macpro/Desktop/控制变量/子公司/FN_Fn061.xlsx",
+    "signature": "17821330:1786432088000000000",
+    "rows_seen": 1000000,
+    "rows_kept": 931071,
+    "completed_at": "2026-08-11T15:51:39"
+  },
+  {
+    "source_id": "subs2",
+    "path": "/Users/macpro/Desktop/控制变量/子公司/FN_Fn0611.xlsx",
+    "signature": "5132829:1786432088000000000",
+    "rows_seen": 284715,
+    "rows_kept": 271246,
+    "completed_at": "2026-08-11T15:51:55"
+  },
+  {
+    "source_id": "auditor",
+    "path": "/Users/macpro/Desktop/控制变量/审计机构/AR_LISTCOMPAUDIT.xlsx",
+    "signature": "2042277:1786431964000000000",
+    "rows_seen": 78136,
+    "rows_kept": 61039,
+    "completed_at": "2026-08-11T15:52:01"
+  },
+  {
+    "source_id": "industry_dta",
+    "path": "/Users/macpro/Desktop/毕业论文/原始数据/行业分类_新下载.dta",
+    "signature": "32216428:1784795584000000000",
+    "rows_seen": 205164,
+    "rows_kept": 57215,
+    "completed_at": "2026-08-11T15:52:03"
+  },
+  {
+    "source_id": "annual_report_inventory",
+    "path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/年报指引识别/output/annual_report_inventory.csv",
+    "signature": "22404501:1784997617586097309",
+    "rows_seen": 61806,
+    "rows_kept": 61806,
+    "completed_at": "2026-08-11T15:52:05"
+  }
+]

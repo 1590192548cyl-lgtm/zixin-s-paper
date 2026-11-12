@@ -1,0 +1,114 @@
+[
+  {
+    "role": "balance",
+    "candidate": "/Users/macpro/Desktop/毕业论文/控制变量/负债合计/FS_Combas.xlsx",
+    "bytes": 16406576,
+    "sha256": "162a03eb9e59fb454f2e31f3ed1393980379b891685e9e1f033a21974ed42c00",
+    "selected": false
+  },
+  {
+    "role": "balance",
+    "candidate": "/Users/macpro/Desktop/毕业论文/控制变量/资产合计负债合计所有者权益合计/FS_Combas.xlsx",
+    "bytes": 32419635,
+    "sha256": "2054eb17a638d3511065e64cdcb24bc90336d45fefdb00907ee6aec24df79669",
+    "selected": true
+  },
+  {
+    "role": "income",
+    "candidate": "/Users/macpro/Desktop/毕业论文/控制变量/营业利润净利润/FS_Comins.xlsx",
+    "bytes": 21585056,
+    "sha256": "598cfb766f8f19672bde93b3fd06c49114504e27db23ab602197df0886c828a2",
+    "selected": true
+  },
+  {
+    "role": "income",
+    "candidate": "/Users/macpro/Desktop/毕业论文/控制变量/营业收入_净利润/FS_Comins.xlsx",
+    "bytes": 21316407,
+    "sha256": "9758459dabf5af1c14a3db23793270b30f9cc8465de6d6f3b115a8e02aee3cc8",
+    "selected": false
+  },
+  {
+    "role": "cfo",
+    "candidate": "/Users/macpro/Desktop/毕业论文/控制变量/经营活动产生的现金流量净额/FS_Comscfd.xlsx",
+    "bytes": 16347329,
+    "sha256": "2648fcc7a42659f9e73ff29436c883445dc594c88efdc4b0b3b211552ad2b53a",
+    "selected": true
+  },
+  {
+    "role": "eps",
+    "candidate": "/Users/macpro/Desktop/毕业论文/控制变量/每股收益/FI_T9.xlsx",
+    "bytes": 14148334,
+    "sha256": "0b155d69c35ff87ef13fc485b5569fc1e59900574a1ec87a03265e69e45596c9",
+    "selected": true
+  },
+  {
+    "role": "loss",
+    "candidate": "/Users/macpro/Desktop/毕业论文/控制变量/归属于股东的扣非净利润/FI_T2.xlsx",
+    "bytes": 6817956,
+    "sha256": "a18d7deaf970affb6db4c6ad4950c6d776a5263f02f736b3d151b872f4b68561",
+    "selected": true
+  },
+  {
+    "role": "market",
+    "candidate": "/Users/macpro/Desktop/毕业论文/控制变量/年个股回报率/TRD_Year.xlsx",
+    "bytes": 1772314,
+    "sha256": "58a743da107a81b8878f008a525ec39a8384115a17de552a5a98f9244332548b",
+    "selected": false
+  },
+  {
+    "role": "market",
+    "candidate": "/Users/macpro/Desktop/毕业论文/控制变量/总市值/TRD_Year.xlsx",
+    "bytes": 1772314,
+    "sha256": "58a743da107a81b8878f008a525ec39a8384115a17de552a5a98f9244332548b",
+    "selected": true
+  },
+  {
+    "role": "inst",
+    "candidate": "/Users/macpro/Desktop/毕业论文/控制变量/机构投资者持股比例_两职合一_独立董事占比/BDT_ManaGovAbil.xlsx",
+    "bytes": 1955127,
+    "sha256": "5eb2ecc99da5501f685d85e4b9e9eba29900852e4bed04594b8cdc02e8643ee7",
+    "selected": true
+  },
+  {
+    "role": "top",
+    "candidate": "/Users/macpro/Desktop/毕业论文/控制变量/第一大股东持股比例/EN_EquityNatureAll.xlsx",
+    "bytes": 1329709,
+    "sha256": "aa75b9c8695e04d697e05bbe1b8ae19a3d302bce6267905d4dc2674dfdc2e9b7",
+    "selected": true
+  },
+  {
+    "role": "analyst",
+    "candidate": "/Users/macpro/Desktop/毕业论文/控制变量/分析师数量/AF_CFEATUREPROFILE.xlsx",
+    "bytes": 1290759,
+    "sha256": "d1c21d30a2e9448e055959b59ba3e6af2a35450acd9314a6f2408935d883eadc",
+    "selected": true
+  },
+  {
+    "role": "monthly",
+    "candidate": "/Users/macpro/Desktop/毕业论文/控制变量/月个股收益率/TRD_Mnth.xlsx",
+    "bytes": 14487370,
+    "sha256": "6c7cf42c8d2a13a2a7c7cfb3a191bb93fd2aeadfc60a291b26aa8ca230511cc2",
+    "selected": true
+  },
+  {
+    "role": "subs1",
+    "candidate": "/Users/macpro/Desktop/毕业论文/控制变量/子公司/FN_Fn061.xlsx",
+    "bytes": 17821330,
+    "sha256": "f1916e14725236edf46e04af4c32a489fe5df2accc68edeb6034ec3f6cfd1460",
+    "selected": true
+  },
+  {
+    "role": "subs2",
+    "candidate": "/Users/macpro/Desktop/毕业论文/控制变量/子公司/FN_Fn0611.xlsx",
+    "bytes": 5132829,
+    "sha256": "d27b65ef6a177b0ba101d7a0de43a1ceb27c72731cac14d861169f4b9ab1379c",
+    "selected": true
+  },
+  {
+    "role": "auditor",
+    "candidate": "/Users/macpro/Desktop/毕业论文/控制变量/审计机构/AR_LISTCOMPAUDIT.xlsx",
+    "bytes": 2042277,
+    "sha256": "c80251a82c67d1e1813410083ee42307f08f66eb9344109932d2f0e84c542207",
+    "selected": true
+  }
+]

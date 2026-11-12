@@ -1,0 +1,7 @@
+{
+  "package_root": ".",
+  "working_root": "rebuild_workspace",
+  "execute_analysis": false,
+  "python": "python3",
+  "stata_executable": null
+}

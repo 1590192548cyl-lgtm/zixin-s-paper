@@ -1,0 +1,1725 @@
+[
+  {
+    "role": "balance",
+    "original_path": "/Users/macpro/Desktop/控制变量/资产合计负债合计所有者权益合计/FS_Combas.xlsx",
+    "current_original_path": "/Users/macpro/Desktop/毕业论文/控制变量/资产合计负债合计所有者权益合计/FS_Combas.xlsx",
+    "package_path": "analysis_data/source_files/Desktop/毕业论文/控制变量/资产合计负债合计所有者权益合计/FS_Combas.xlsx",
+    "sha256": "2054eb17a638d3511065e64cdcb24bc90336d45fefdb00907ee6aec24df79669",
+    "bytes": 32419635,
+    "status": "already_in_analysis_archive",
+    "verification": "historical_SHA256_AND_checkpoint_signature"
+  },
+  {
+    "role": "income",
+    "original_path": "/Users/macpro/Desktop/控制变量/营业利润净利润/FS_Comins.xlsx",
+    "current_original_path": "/Users/macpro/Desktop/毕业论文/控制变量/营业利润净利润/FS_Comins.xlsx",
+    "package_path": "minimal_sources/thesis/控制变量/营业利润净利润/FS_Comins.xlsx",
+    "sha256": "598cfb766f8f19672bde93b3fd06c49114504e27db23ab602197df0886c828a2",
+    "bytes": 21585056,
+    "status": "new_raw_supplement",
+    "verification": "historical_SHA256_AND_checkpoint_signature"
+  },
+  {
+    "role": "cfo",
+    "original_path": "/Users/macpro/Desktop/控制变量/经营活动产生的现金流量净额/FS_Comscfd.xlsx",
+    "current_original_path": "/Users/macpro/Desktop/毕业论文/控制变量/经营活动产生的现金流量净额/FS_Comscfd.xlsx",
+    "package_path": "minimal_sources/thesis/控制变量/经营活动产生的现金流量净额/FS_Comscfd.xlsx",
+    "sha256": "2648fcc7a42659f9e73ff29436c883445dc594c88efdc4b0b3b211552ad2b53a",
+    "bytes": 16347329,
+    "status": "new_raw_supplement",
+    "verification": "checkpoint_size_mtime_signature_only; SHA256 frozen now"
+  },
+  {
+    "role": "eps",
+    "original_path": "/Users/macpro/Desktop/控制变量/每股收益/FI_T9.xlsx",
+    "current_original_path": "/Users/macpro/Desktop/毕业论文/控制变量/每股收益/FI_T9.xlsx",
+    "package_path": "minimal_sources/thesis/控制变量/每股收益/FI_T9.xlsx",
+    "sha256": "0b155d69c35ff87ef13fc485b5569fc1e59900574a1ec87a03265e69e45596c9",
+    "bytes": 14148334,
+    "status": "new_raw_supplement",
+    "verification": "checkpoint_size_mtime_signature_only; SHA256 frozen now"
+  },
+  {
+    "role": "loss",
+    "original_path": "/Users/macpro/Desktop/控制变量/归属于股东的扣非净利润/FI_T2.xlsx",
+    "current_original_path": "/Users/macpro/Desktop/毕业论文/控制变量/归属于股东的扣非净利润/FI_T2.xlsx",
+    "package_path": "minimal_sources/thesis/控制变量/归属于股东的扣非净利润/FI_T2.xlsx",
+    "sha256": "a18d7deaf970affb6db4c6ad4950c6d776a5263f02f736b3d151b872f4b68561",
+    "bytes": 6817956,
+    "status": "new_raw_supplement",
+    "verification": "checkpoint_size_mtime_signature_only; SHA256 frozen now"
+  },
+  {
+    "role": "market",
+    "original_path": "/Users/macpro/Desktop/控制变量/总市值/TRD_Year.xlsx",
+    "current_original_path": "/Users/macpro/Desktop/毕业论文/控制变量/总市值/TRD_Year.xlsx",
+    "package_path": "minimal_sources/thesis/控制变量/总市值/TRD_Year.xlsx",
+    "sha256": "58a743da107a81b8878f008a525ec39a8384115a17de552a5a98f9244332548b",
+    "bytes": 1772314,
+    "status": "new_raw_supplement",
+    "verification": "historical_SHA256_AND_checkpoint_signature"
+  },
+  {
+    "role": "inst",
+    "original_path": "/Users/macpro/Desktop/控制变量/机构投资者持股比例_两职合一_独立董事占比/BDT_ManaGovAbil.xlsx",
+    "current_original_path": "/Users/macpro/Desktop/毕业论文/控制变量/机构投资者持股比例_两职合一_独立董事占比/BDT_ManaGovAbil.xlsx",
+    "package_path": "analysis_data/source_files/Desktop/毕业论文/控制变量/机构投资者持股比例_两职合一_独立董事占比/BDT_ManaGovAbil.xlsx",
+    "sha256": "5eb2ecc99da5501f685d85e4b9e9eba29900852e4bed04594b8cdc02e8643ee7",
+    "bytes": 1955127,
+    "status": "already_in_analysis_archive",
+    "verification": "historical_SHA256_AND_checkpoint_signature"
+  },
+  {
+    "role": "top",
+    "original_path": "/Users/macpro/Desktop/控制变量/第一大股东持股比例/EN_EquityNatureAll.xlsx",
+    "current_original_path": "/Users/macpro/Desktop/毕业论文/控制变量/第一大股东持股比例/EN_EquityNatureAll.xlsx",
+    "package_path": "minimal_sources/thesis/控制变量/第一大股东持股比例/EN_EquityNatureAll.xlsx",
+    "sha256": "aa75b9c8695e04d697e05bbe1b8ae19a3d302bce6267905d4dc2674dfdc2e9b7",
+    "bytes": 1329709,
+    "status": "new_raw_supplement",
+    "verification": "historical_SHA256_AND_checkpoint_signature"
+  },
+  {
+    "role": "analyst",
+    "original_path": "/Users/macpro/Desktop/控制变量/分析师数量/AF_CFEATUREPROFILE.xlsx",
+    "current_original_path": "/Users/macpro/Desktop/毕业论文/控制变量/分析师数量/AF_CFEATUREPROFILE.xlsx",
+    "package_path": "minimal_sources/thesis/控制变量/分析师数量/AF_CFEATUREPROFILE.xlsx",
+    "sha256": "d1c21d30a2e9448e055959b59ba3e6af2a35450acd9314a6f2408935d883eadc",
+    "bytes": 1290759,
+    "status": "new_raw_supplement",
+    "verification": "checkpoint_size_mtime_signature_only; SHA256 frozen now"
+  },
+  {
+    "role": "monthly",
+    "original_path": "/Users/macpro/Desktop/控制变量/月个股收益率/TRD_Mnth.xlsx",
+    "current_original_path": "/Users/macpro/Desktop/毕业论文/控制变量/月个股收益率/TRD_Mnth.xlsx",
+    "package_path": "minimal_sources/thesis/控制变量/月个股收益率/TRD_Mnth.xlsx",
+    "sha256": "6c7cf42c8d2a13a2a7c7cfb3a191bb93fd2aeadfc60a291b26aa8ca230511cc2",
+    "bytes": 14487370,
+    "status": "new_raw_supplement",
+    "verification": "checkpoint_size_mtime_signature_only; SHA256 frozen now"
+  },
+  {
+    "role": "subs1",
+    "original_path": "/Users/macpro/Desktop/控制变量/子公司/FN_Fn061.xlsx",
+    "current_original_path": "/Users/macpro/Desktop/毕业论文/控制变量/子公司/FN_Fn061.xlsx",
+    "package_path": "minimal_sources/thesis/控制变量/子公司/FN_Fn061.xlsx",
+    "sha256": "f1916e14725236edf46e04af4c32a489fe5df2accc68edeb6034ec3f6cfd1460",
+    "bytes": 17821330,
+    "status": "new_raw_supplement",
+    "verification": "checkpoint_size_mtime_signature_only; SHA256 frozen now"
+  },
+  {
+    "role": "subs2",
+    "original_path": "/Users/macpro/Desktop/控制变量/子公司/FN_Fn0611.xlsx",
+    "current_original_path": "/Users/macpro/Desktop/毕业论文/控制变量/子公司/FN_Fn0611.xlsx",
+    "package_path": "minimal_sources/thesis/控制变量/子公司/FN_Fn0611.xlsx",
+    "sha256": "d27b65ef6a177b0ba101d7a0de43a1ceb27c72731cac14d861169f4b9ab1379c",
+    "bytes": 5132829,
+    "status": "new_raw_supplement",
+    "verification": "checkpoint_size_mtime_signature_only; SHA256 frozen now"
+  },
+  {
+    "role": "auditor",
+    "original_path": "/Users/macpro/Desktop/控制变量/审计机构/AR_LISTCOMPAUDIT.xlsx",
+    "current_original_path": "/Users/macpro/Desktop/毕业论文/控制变量/审计机构/AR_LISTCOMPAUDIT.xlsx",
+    "package_path": "analysis_data/source_files/Desktop/毕业论文/控制变量/审计机构/AR_LISTCOMPAUDIT.xlsx",
+    "sha256": "c80251a82c67d1e1813410083ee42307f08f66eb9344109932d2f0e84c542207",
+    "bytes": 2042277,
+    "status": "already_in_analysis_archive",
+    "verification": "historical_SHA256_AND_checkpoint_signature"
+  },
+  {
+    "role": "industry_dta",
+    "original_path": "/Users/macpro/Desktop/毕业论文/原始数据/行业分类_新下载.dta",
+    "current_original_path": "/Users/macpro/Desktop/毕业论文/原始数据/行业分类_新下载.dta",
+    "package_path": "analysis_data/source_files/Desktop/毕业论文/原始数据/行业分类_新下载.dta",
+    "sha256": "83dc802319857cd638dc966a01f65fba54f8bff46faefc1bf9807a050c7173f3",
+    "bytes": 32216428,
+    "status": "already_in_analysis_archive",
+    "verification": "historical_SHA256_AND_checkpoint_signature"
+  },
+  {
+    "role": "annual_report_inventory",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/年报指引识别/output/annual_report_inventory.csv",
+    "current_original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/年报指引识别/output/annual_report_inventory.csv",
+    "package_path": "minimal_sources/thesis/堆叠DID重跑/年报指引识别/output/annual_report_inventory.csv",
+    "sha256": "5ab1901afd4b3ef904c8d85b5af8af6a99cedf79c7a0ea6fa6bc88ece8b15c72",
+    "bytes": 22404501,
+    "status": "new_raw_supplement",
+    "verification": "checkpoint_size_mtime_signature_only; SHA256 frozen now"
+  },
+  {
+    "role": "huang_turnover",
+    "original_path": "/Users/macpro/Desktop/毕业论文/控制变量/年个股换手率/LIQ_TOVER_Y.xlsx",
+    "current_original_path": "/Users/macpro/Desktop/毕业论文/控制变量/年个股换手率/LIQ_TOVER_Y.xlsx",
+    "package_path": "minimal_sources/thesis/控制变量/年个股换手率/LIQ_TOVER_Y.xlsx",
+    "sha256": "d2c00094714e940f39f6abf527dca18196c8202a88872a59146254c25bd1d326",
+    "bytes": 1816658,
+    "status": "new_raw_supplement",
+    "verification": "historical_SHA256"
+  },
+  {
+    "role": "huang_controller",
+    "original_path": "/Users/macpro/Desktop/毕业论文/控制变量/实际控制人性质/HLD_Contrshr.xlsx",
+    "current_original_path": "/Users/macpro/Desktop/毕业论文/控制变量/实际控制人性质/HLD_Contrshr.xlsx",
+    "package_path": "minimal_sources/thesis/控制变量/实际控制人性质/HLD_Contrshr.xlsx",
+    "sha256": "0750ad00ec477d2dd2ff841005bb64ff5dfffef350953e2dbc8fc22b0259f4d4",
+    "bytes": 2820816,
+    "status": "new_raw_supplement",
+    "verification": "historical_SHA256"
+  },
+  {
+    "role": "huang_archive_上市公司控制人文件153338047(仅供vip使用)",
+    "original_path": "/Users/macpro/Desktop/毕业论文/控制变量/黄文复现补充/上市公司控制人文件153338047(仅供vip使用).zip",
+    "current_original_path": "/Users/macpro/Desktop/毕业论文/控制变量/黄文复现补充/上市公司控制人文件153338047(仅供vip使用).zip",
+    "package_path": "minimal_sources/thesis/控制变量/黄文复现补充/上市公司控制人文件153338047(仅供vip使用).zip",
+    "sha256": "8e1fabdd614a728c704ea3f6fb13bb03021fb0ebeb7ef4a477cacb51d844f94b",
+    "bytes": 2908639,
+    "status": "new_raw_supplement",
+    "verification": "historical_SHA256"
+  },
+  {
+    "role": "huang_archive_公司基本信息表202614412(仅供vip使用)",
+    "original_path": "/Users/macpro/Desktop/毕业论文/控制变量/黄文复现补充/公司基本信息表202614412(仅供vip使用).zip",
+    "current_original_path": "/Users/macpro/Desktop/毕业论文/控制变量/黄文复现补充/公司基本信息表202614412(仅供vip使用).zip",
+    "package_path": "minimal_sources/thesis/控制变量/黄文复现补充/公司基本信息表202614412(仅供vip使用).zip",
+    "sha256": "ef95496dbf9bc2726e1b0ea5381342be4bb208a61caad1168a436d12f7e93988",
+    "bytes": 323519,
+    "status": "new_raw_supplement",
+    "verification": "historical_SHA256"
+  },
+  {
+    "role": "huang_archive_十大股东文件153243884(仅供vip使用)",
+    "original_path": "/Users/macpro/Desktop/毕业论文/控制变量/黄文复现补充/十大股东文件153243884(仅供vip使用).zip",
+    "current_original_path": "/Users/macpro/Desktop/毕业论文/控制变量/黄文复现补充/十大股东文件153243884(仅供vip使用).zip",
+    "package_path": "minimal_sources/thesis/控制变量/黄文复现补充/十大股东文件153243884(仅供vip使用).zip",
+    "sha256": "9a5e00056572d3414a67a582493e3d607c726d46762a87dd4e6f3bc31d0f5af3",
+    "bytes": 33550095,
+    "status": "new_raw_supplement",
+    "verification": "historical_SHA256"
+  },
+  {
+    "role": "huang_archive_股本结构文件153556363(仅供vip使用)",
+    "original_path": "/Users/macpro/Desktop/毕业论文/控制变量/黄文复现补充/股本结构文件153556363(仅供vip使用).zip",
+    "current_original_path": "/Users/macpro/Desktop/毕业论文/控制变量/黄文复现补充/股本结构文件153556363(仅供vip使用).zip",
+    "package_path": "minimal_sources/thesis/控制变量/黄文复现补充/股本结构文件153556363(仅供vip使用).zip",
+    "sha256": "2e9f167da016adc8db5d1dbbedff2012233e6b5187498d2daaebb2ee46f6f76a",
+    "bytes": 1402139,
+    "status": "new_raw_supplement",
+    "verification": "historical_SHA256"
+  },
+  {
+    "role": "existing_mda_status_metadata",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/output/mda_all_years_match_status.csv",
+    "current_original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/output/mda_all_years_match_status.csv",
+    "package_path": "minimal_sources/thesis/堆叠DID重跑/output/mda_all_years_match_status.csv",
+    "sha256": "4f83561f20a868041f2c89f7c8870dd52daa36ad544feec3e27014ebd33c5dcf",
+    "bytes": 1542465,
+    "status": "new_raw_supplement",
+    "verification": "current_metadata_snapshot_only; not a historical source SHA claim"
+  },
+  {
+    "role": "existing_raw_CG_Sharehold.xlsx",
+    "original_path": "/Users/macpro/Desktop/2008年控制变量下载清单_20261104/%E5%8D%81%E5%A4%A7%E8%82%A1%E4%B8%9C%E6%96%87%E4%BB%B6200458953(%E4%BB%85%E4%BE%9Bvip%E4%BD%BF%E7%94%A8)/CG_Sharehold.xlsx",
+    "package_path": "analysis_data/source_files/Desktop/2008年控制变量下载清单_20261104/%E5%8D%81%E5%A4%A7%E8%82%A1%E4%B8%9C%E6%96%87%E4%BB%B6200458953(%E4%BB%85%E4%BE%9Bvip%E4%BD%BF%E7%94%A8)/CG_Sharehold.xlsx",
+    "sha256": "b2dd35ba8963ebc57339507897f8f01dd99ab4592e3d05257fdba6693fe45bf0",
+    "bytes": 2825690,
+    "status": "existing_raw",
+    "verification": "previous_frozen_manifest_SHA256"
+  },
+  {
+    "role": "existing_raw_TRD_Week.xlsx",
+    "original_path": "/Users/macpro/Desktop/2008年控制变量下载清单_20261104/%E5%91%A8%E4%B8%AA%E8%82%A1%E5%9B%9E%E6%8A%A5%E7%8E%87%E6%96%87%E4%BB%B6202440377(%E4%BB%85%E4%BE%9Bvip%E4%BD%BF%E7%94%A8)/TRD_Week.xlsx",
+    "package_path": "analysis_data/source_files/Desktop/2008年控制变量下载清单_20261104/%E5%91%A8%E4%B8%AA%E8%82%A1%E5%9B%9E%E6%8A%A5%E7%8E%87%E6%96%87%E4%BB%B6202440377(%E4%BB%85%E4%BE%9Bvip%E4%BD%BF%E7%94%A8)/TRD_Week.xlsx",
+    "sha256": "1a3250767d0977a419cb2374685a479b983d5529db617b778928bf80198be227",
+    "bytes": 8039,
+    "status": "existing_raw",
+    "verification": "previous_frozen_manifest_SHA256"
+  },
+  {
+    "role": "existing_raw_CG_Ybasic.xlsx",
+    "original_path": "/Users/macpro/Desktop/2008年控制变量下载清单_20261104/%E6%B2%BB%E7%90%86%E7%BB%BC%E5%90%88%E4%BF%A1%E6%81%AF%E6%96%87%E4%BB%B6202207156(%E4%BB%85%E4%BE%9Bvip%E4%BD%BF%E7%94%A8)/CG_Ybasic.xlsx",
+    "package_path": "analysis_data/source_files/Desktop/2008年控制变量下载清单_20261104/%E6%B2%BB%E7%90%86%E7%BB%BC%E5%90%88%E4%BF%A1%E6%81%AF%E6%96%87%E4%BB%B6202207156(%E4%BB%85%E4%BE%9Bvip%E4%BD%BF%E7%94%A8)/CG_Ybasic.xlsx",
+    "sha256": "6dd045fb792dd940bd35f0aa692a10d127f4ca993eee911f8c2f9f8775655efc",
+    "bytes": 10222,
+    "status": "existing_raw",
+    "verification": "previous_frozen_manifest_SHA256"
+  },
+  {
+    "role": "existing_raw_CG_Ybasic.xlsx",
+    "original_path": "/Users/macpro/Desktop/2008年控制变量下载清单_20261104/%E6%B2%BB%E7%90%86%E7%BB%BC%E5%90%88%E4%BF%A1%E6%81%AF%E6%96%87%E4%BB%B6203110168(%E4%BB%85%E4%BE%9Bvip%E4%BD%BF%E7%94%A8)/CG_Ybasic.xlsx",
+    "package_path": "analysis_data/source_files/Desktop/2008年控制变量下载清单_20261104/%E6%B2%BB%E7%90%86%E7%BB%BC%E5%90%88%E4%BF%A1%E6%81%AF%E6%96%87%E4%BB%B6203110168(%E4%BB%85%E4%BE%9Bvip%E4%BD%BF%E7%94%A8)/CG_Ybasic.xlsx",
+    "sha256": "a95bb59f3d55c68ef5961158d46c4d2a668365a348fbc654977a14e188552b9f",
+    "bytes": 13486,
+    "status": "existing_raw",
+    "verification": "previous_frozen_manifest_SHA256"
+  },
+  {
+    "role": "existing_raw_BDT_ManaGovAbil.xlsx",
+    "original_path": "/Users/macpro/Desktop/2008年控制变量下载清单_20261104/%E7%AE%A1%E7%90%86%E5%B1%82%E6%B2%BB%E7%90%86%E8%83%BD%E5%8A%9B200614533(%E4%BB%85%E4%BE%9Bvip%E4%BD%BF%E7%94%A8)/BDT_ManaGovAbil.xlsx",
+    "package_path": "analysis_data/source_files/Desktop/2008年控制变量下载清单_20261104/%E7%AE%A1%E7%90%86%E5%B1%82%E6%B2%BB%E7%90%86%E8%83%BD%E5%8A%9B200614533(%E4%BB%85%E4%BE%9Bvip%E4%BD%BF%E7%94%A8)/BDT_ManaGovAbil.xlsx",
+    "sha256": "5c9d3132a1ed24200b1a6ea3ba4b61cf77e9b34c930dfb5fa79467e1d1a91b49",
+    "bytes": 6371,
+    "status": "existing_raw",
+    "verification": "previous_frozen_manifest_SHA256"
+  },
+  {
+    "role": "existing_raw_CHN_AA_Overall.xlsx",
+    "original_path": "/Users/macpro/Desktop/2008年控制变量下载清单_20261104/%E8%B5%84%E4%BA%A7%E8%AF%84%E4%BC%B0%E6%80%BB%E4%BD%93%E6%83%85%E5%86%B5%E8%A1%A8201012107(%E4%BB%85%E4%BE%9Bvip%E4%BD%BF%E7%94%A8)/CHN_AA_Overall.xlsx",
+    "package_path": "analysis_data/source_files/Desktop/2008年控制变量下载清单_20261104/%E8%B5%84%E4%BA%A7%E8%AF%84%E4%BC%B0%E6%80%BB%E4%BD%93%E6%83%85%E5%86%B5%E8%A1%A8201012107(%E4%BB%85%E4%BE%9Bvip%E4%BD%BF%E7%94%A8)/CHN_AA_Overall.xlsx",
+    "sha256": "ff65678bd593ab3affc57bdf287d348defbd23e6168e12613780314e1d12aac4",
+    "bytes": 3917,
+    "status": "existing_raw",
+    "verification": "previous_frozen_manifest_SHA256"
+  },
+  {
+    "role": "existing_raw_CG_ManagerShareSalary.xlsx",
+    "original_path": "/Users/macpro/Desktop/2008年控制变量下载清单_20261104/%E9%AB%98%E7%AE%A1%E4%BA%BA%E6%95%B0%E3%80%81%E6%8C%81%E8%82%A1%E5%8F%8A%E8%96%AA%E9%85%AC%E6%83%85%E5%86%B5%E8%A1%A8200847696(%E4%BB%85%E4%BE%9Bvip%E4%BD%BF%E7%94%A8)/CG_ManagerShareSalary.xlsx",
+    "package_path": "analysis_data/source_files/Desktop/2008年控制变量下载清单_20261104/%E9%AB%98%E7%AE%A1%E4%BA%BA%E6%95%B0%E3%80%81%E6%8C%81%E8%82%A1%E5%8F%8A%E8%96%AA%E9%85%AC%E6%83%85%E5%86%B5%E8%A1%A8200847696(%E4%BB%85%E4%BE%9Bvip%E4%BD%BF%E7%94%A8)/CG_ManagerShareSalary.xlsx",
+    "sha256": "6d896c75e8adc4cbf5d30d1c10e3722c9896844c4eb58fb463ea70f622c9e115",
+    "bytes": 4089,
+    "status": "existing_raw",
+    "verification": "previous_frozen_manifest_SHA256"
+  },
+  {
+    "role": "existing_raw_EVA_Co.xlsx",
+    "original_path": "/Users/macpro/Desktop/毕业论文/原始数据/公司基本信息/EVA_Co.xlsx",
+    "package_path": "analysis_data/source_files/Desktop/毕业论文/原始数据/公司基本信息/EVA_Co.xlsx",
+    "sha256": "cffef5104f210c63a4ce9ade00e5923bbcce8b3c6fc985c640337bdb3590c7fa",
+    "bytes": 196137,
+    "status": "existing_raw",
+    "verification": "previous_frozen_manifest_SHA256"
+  },
+  {
+    "role": "existing_raw_IPO_Cobasic.dta",
+    "original_path": "/Users/macpro/Desktop/毕业论文/原始数据/公司基本信息/IPO_Cobasic.dta",
+    "package_path": "analysis_data/source_files/Desktop/毕业论文/原始数据/公司基本信息/IPO_Cobasic.dta",
+    "sha256": "9098ef48ea69d44e56ed3928b0be562479d22573fba9af45257b0bf3d358762b",
+    "bytes": 609547,
+    "status": "existing_raw",
+    "verification": "previous_frozen_manifest_SHA256"
+  },
+  {
+    "role": "existing_raw_TRD_Week.dta",
+    "original_path": "/Users/macpro/Desktop/毕业论文/原始数据/周度数据重下/TRD_Week.dta",
+    "package_path": "analysis_data/source_files/Desktop/毕业论文/原始数据/周度数据重下/TRD_Week.dta",
+    "sha256": "b867704d789939b38cded71e481fed329bafd7a776448667dd9658a510b6f830",
+    "bytes": 29003120,
+    "status": "existing_raw",
+    "verification": "previous_frozen_manifest_SHA256"
+  },
+  {
+    "role": "existing_raw_TRD_Week1.dta",
+    "original_path": "/Users/macpro/Desktop/毕业论文/原始数据/周度数据重下/TRD_Week1.dta",
+    "package_path": "analysis_data/source_files/Desktop/毕业论文/原始数据/周度数据重下/TRD_Week1.dta",
+    "sha256": "09080f1f49ac949d50db044a5329a8186d4d7aa6a0ec31354c23ade678486fec",
+    "bytes": 29003120,
+    "status": "existing_raw",
+    "verification": "previous_frozen_manifest_SHA256"
+  },
+  {
+    "role": "existing_raw_TRD_Week2.dta",
+    "original_path": "/Users/macpro/Desktop/毕业论文/原始数据/周度数据重下/TRD_Week2.dta",
+    "package_path": "analysis_data/source_files/Desktop/毕业论文/原始数据/周度数据重下/TRD_Week2.dta",
+    "sha256": "e09e6aff13e445e8556b462e008b83f6d23fd5f426bd7d0b47c14652172638fe",
+    "bytes": 23136275,
+    "status": "existing_raw",
+    "verification": "previous_frozen_manifest_SHA256"
+  },
+  {
+    "role": "existing_raw_big4_name_mapping.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/gao_full_controls/big4_name_mapping.csv",
+    "package_path": "analysis_data/source_files/Desktop/毕业论文/堆叠DID重跑/gao_full_controls/big4_name_mapping.csv",
+    "sha256": "589c25cb21fa825cbb695413a1b9e39ce295fe70e80912f09c69ac9873046843",
+    "bytes": 1702,
+    "status": "existing_raw",
+    "verification": "previous_frozen_manifest_SHA256"
+  },
+  {
+    "role": "existing_raw_STK_IndustryClassAnl.xlsx",
+    "original_path": "/Users/macpro/Desktop/毕业论文/控制变量/07-08年度行业分类表/STK_IndustryClassAnl.xlsx",
+    "package_path": "analysis_data/source_files/Desktop/毕业论文/控制变量/07-08年度行业分类表/STK_IndustryClassAnl.xlsx",
+    "sha256": "6bc020ba0222ada1e289ff44eefe1e3c25359ca9cc59a1c163880f5d53c94589",
+    "bytes": 133238,
+    "status": "existing_raw",
+    "verification": "previous_frozen_manifest_SHA256"
+  },
+  {
+    "role": "existing_raw_STK_IndustryClassAnl.xlsx",
+    "original_path": "/Users/macpro/Desktop/毕业论文/控制变量/2007-2008行业分类年度表/STK_IndustryClassAnl.xlsx",
+    "package_path": "analysis_data/source_files/Desktop/毕业论文/控制变量/2007-2008行业分类年度表/STK_IndustryClassAnl.xlsx",
+    "sha256": "d8de73ec895d86f084a448cc0e8b1c5233cb3f6d4b0473ea26bf555ecedbf02b",
+    "bytes": 56837,
+    "status": "existing_raw",
+    "verification": "previous_frozen_manifest_SHA256"
+  },
+  {
+    "role": "existing_raw_STK_INDUSTRYCLASS.xlsx",
+    "original_path": "/Users/macpro/Desktop/毕业论文/控制变量/2207-2008行业分类/STK_INDUSTRYCLASS.xlsx",
+    "package_path": "analysis_data/source_files/Desktop/毕业论文/控制变量/2207-2008行业分类/STK_INDUSTRYCLASS.xlsx",
+    "sha256": "42207de3164529415478537372ab3f9c987d361ff73ad5b9966a6b5aaf8f9f4d",
+    "bytes": 58672,
+    "status": "existing_raw",
+    "verification": "previous_frozen_manifest_SHA256"
+  },
+  {
+    "role": "existing_raw_STK_IndustryClassAnl.xlsx",
+    "original_path": "/Users/macpro/Desktop/毕业论文/控制变量/上市公司行业分类年度表142024727(仅供vip使用)/STK_IndustryClassAnl.xlsx",
+    "package_path": "analysis_data/source_files/Desktop/毕业论文/控制变量/上市公司行业分类年度表142024727(仅供vip使用)/STK_IndustryClassAnl.xlsx",
+    "sha256": "0f425a37d5873b8326b58fd7466f351b74b6492fbfbf8eb1bbcc9decbf8ac985",
+    "bytes": 427878,
+    "status": "existing_raw",
+    "verification": "previous_frozen_manifest_SHA256"
+  },
+  {
+    "role": "existing_raw_AR_LISTCOMPAUDIT.xlsx",
+    "original_path": "/Users/macpro/Desktop/毕业论文/控制变量/审计机构/AR_LISTCOMPAUDIT.xlsx",
+    "package_path": "analysis_data/source_files/Desktop/毕业论文/控制变量/审计机构/AR_LISTCOMPAUDIT.xlsx",
+    "sha256": "c80251a82c67d1e1813410083ee42307f08f66eb9344109932d2f0e84c542207",
+    "bytes": 2042277,
+    "status": "existing_raw",
+    "verification": "previous_frozen_manifest_SHA256"
+  },
+  {
+    "role": "existing_raw_BDT_ManaGovAbil.xlsx",
+    "original_path": "/Users/macpro/Desktop/毕业论文/控制变量/机构投资者持股比例_两职合一_独立董事占比/BDT_ManaGovAbil.xlsx",
+    "package_path": "analysis_data/source_files/Desktop/毕业论文/控制变量/机构投资者持股比例_两职合一_独立董事占比/BDT_ManaGovAbil.xlsx",
+    "sha256": "5eb2ecc99da5501f685d85e4b9e9eba29900852e4bed04594b8cdc02e8643ee7",
+    "bytes": 1955127,
+    "status": "existing_raw",
+    "verification": "previous_frozen_manifest_SHA256"
+  },
+  {
+    "role": "existing_raw_CG_ManagerShareSalary.xlsx",
+    "original_path": "/Users/macpro/Desktop/毕业论文/控制变量/董事人数/CG_ManagerShareSalary.xlsx",
+    "package_path": "analysis_data/source_files/Desktop/毕业论文/控制变量/董事人数/CG_ManagerShareSalary.xlsx",
+    "sha256": "595441f3c127d0ddcb0a55d15289c90a7dc0e572a57716013db1a38101bcd7bf",
+    "bytes": 2197425,
+    "status": "existing_raw",
+    "verification": "previous_frozen_manifest_SHA256"
+  },
+  {
+    "role": "existing_raw_FS_Combas.xlsx",
+    "original_path": "/Users/macpro/Desktop/毕业论文/控制变量/资产合计负债合计所有者权益合计/FS_Combas.xlsx",
+    "package_path": "analysis_data/source_files/Desktop/毕业论文/控制变量/资产合计负债合计所有者权益合计/FS_Combas.xlsx",
+    "sha256": "2054eb17a638d3511065e64cdcb24bc90336d45fefdb00907ee6aec24df79669",
+    "bytes": 32419635,
+    "status": "existing_raw",
+    "verification": "previous_frozen_manifest_SHA256"
+  },
+  {
+    "role": "existing_raw_STK_IndustryClassAnl.xlsx",
+    "original_path": "/Users/macpro/Desktop/毕业论文/行业分类/STK_IndustryClassAnl.xlsx",
+    "package_path": "analysis_data/source_files/Desktop/毕业论文/行业分类/STK_IndustryClassAnl.xlsx",
+    "sha256": "6a3c0a2bc3bd3ac5b95f0e92b39d8e08013fbddb3212a9f28eba296c605d4c7d",
+    "bytes": 5777988,
+    "status": "existing_raw",
+    "verification": "previous_frozen_manifest_SHA256"
+  },
+  {
+    "role": "existing_raw_alias_2008_下载公司总清单_526家.csv",
+    "original_path": "/Users/macpro/Desktop/2008年控制变量下载清单_20261104/2008_下载公司总清单_526家.csv",
+    "package_path": "analysis_data/workspace/huang_two_firm_gap_audit_20261104/download_2008/2008_下载公司总清单_526家.csv",
+    "sha256": "280d39f67f72d085596213abdf94eee73787c9e7596f79ece1fd281b9171ad68",
+    "bytes": 27413,
+    "status": "existing_raw_alias",
+    "verification": "previous_frozen_manifest_SHA256"
+  },
+  {
+    "role": "existing_raw_alias_2008_两职合一缺口_19家.csv",
+    "original_path": "/Users/macpro/Desktop/2008年控制变量下载清单_20261104/2008_两职合一缺口_19家.csv",
+    "package_path": "analysis_data/workspace/huang_two_firm_gap_audit_20261104/download_2008/2008_两职合一缺口_19家.csv",
+    "sha256": "64830934c00d9f9d24eb8fe04f817d66f53cb0d8b2329ce9f9748bb1d690f71b",
+    "bytes": 1169,
+    "status": "existing_raw_alias",
+    "verification": "previous_frozen_manifest_SHA256"
+  },
+  {
+    "role": "existing_raw_alias_2008_字段及查询条件.csv",
+    "original_path": "/Users/macpro/Desktop/2008年控制变量下载清单_20261104/2008_字段及查询条件.csv",
+    "package_path": "analysis_data/workspace/huang_two_firm_gap_audit_20261104/download_2008/2008_字段及查询条件.csv",
+    "sha256": "c82ac97d6b633c242711fa2e7abddf011ac8f635e143997c51f7f9f0d3904979",
+    "bytes": 573,
+    "status": "existing_raw_alias",
+    "verification": "previous_frozen_manifest_SHA256"
+  },
+  {
+    "role": "existing_raw_alias_2008_董事审计历史主体核验_1家.csv",
+    "original_path": "/Users/macpro/Desktop/2008年控制变量下载清单_20261104/2008_董事审计历史主体核验_1家.csv",
+    "package_path": "analysis_data/workspace/huang_two_firm_gap_audit_20261104/download_2008/2008_董事审计历史主体核验_1家.csv",
+    "sha256": "d4bc984ac775590677fcd3ebb03556f86e2b144c80c38f58e2822e36684dc4e2",
+    "bytes": 242,
+    "status": "existing_raw_alias",
+    "verification": "previous_frozen_manifest_SHA256"
+  },
+  {
+    "role": "existing_raw_alias_先读我_下载说明.md",
+    "original_path": "/Users/macpro/Desktop/2008年控制变量下载清单_20261104/先读我_下载说明.md",
+    "package_path": "analysis_data/workspace/huang_two_firm_gap_audit_20261104/download_2008/先读我_下载说明.md",
+    "sha256": "02f469c023d8c5aec67f92a611aadcb9700dd7ec714a20534b65fad20cbefded",
+    "bytes": 2323,
+    "status": "existing_raw_alias",
+    "verification": "previous_frozen_manifest_SHA256"
+  },
+  {
+    "role": "existing_raw_alias_latest_G1_analysis.dta",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/four_cohort_G1_latest_recheck_20261028/latest_G1_analysis.dta",
+    "package_path": "analysis_data/workspace/four_cohort_G1_final_fixed_rerun_20261103_work/outputs/input_snapshot/latest_G1_analysis_original.dta",
+    "sha256": "a963108d218b7e3b9a3e41b2b22643895189dd960cec7986a9b878acdba2d2d2",
+    "bytes": 3060969,
+    "status": "existing_raw_alias",
+    "verification": "previous_frozen_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_G1_coefficient_difference_decomposition.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/four_cohort_G1_latest_recheck_20261028/G1_coefficient_difference_decomposition.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/current_G1/G1_coefficient_difference_decomposition.csv",
+    "sha256": "90958d036168b62b581f9220aca4c01cf8f38afe8943aa6278d177a3bbf93334",
+    "bytes": 604,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_G1_event_joint_tests.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/four_cohort_G1_latest_recheck_20261028/G1_event_joint_tests.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/current_G1/G1_event_joint_tests.csv",
+    "sha256": "6b7432c094f1b8b5b0e83c52cbde3c9f40093fb86052ca90602ea20deaa9230f",
+    "bytes": 299,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_G1_event_results.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/four_cohort_G1_latest_recheck_20261028/G1_event_results.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/current_G1/G1_event_results.csv",
+    "sha256": "9c785ab503f1f59dd620bed6d31b40167fa8709d880de42dcf0c4ceab5d278b8",
+    "bytes": 999,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_G1_historical_vs_latest_comparison.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/four_cohort_G1_latest_recheck_20261028/G1_historical_vs_latest_comparison.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/current_G1/G1_historical_vs_latest_comparison.csv",
+    "sha256": "9771cf0e9887f743e7b1defff9fbdb9aa69ae7d2a4435d5e3a77b41706be36f7",
+    "bytes": 922,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_G1_static_rerun_results.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/four_cohort_G1_latest_recheck_20261028/G1_static_rerun_results.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/current_G1/G1_static_rerun_results.csv",
+    "sha256": "8f2d346bd52829c9ad56b61fbbabf9cdc742ba77c5f2b45a80baecec7cd10955",
+    "bytes": 776,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_actual_sample_verification.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/four_cohort_G1_latest_recheck_20261028/actual_sample_verification.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/current_G1/actual_sample_verification.csv",
+    "sha256": "99bf089a8cdb8a05588afbfa1e74fe4358849ddab35848febd8b4426e2facd28",
+    "bytes": 421,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_PRE_ANALYSIS_PLAN.md",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/four_cohort_G1_latest_recheck_20261028/code/PRE_ANALYSIS_PLAN.md",
+    "package_path": "analysis_data/legacy_20261028/private_data/current_G1/code/PRE_ANALYSIS_PLAN.md",
+    "sha256": "675afdffc69acaedf5a143fa26de53b22d8db2c22d3e9068197426d5d6284b2a",
+    "bytes": 3443,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_compile_G1_report.py",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/four_cohort_G1_latest_recheck_20261028/code/compile_G1_report.py",
+    "package_path": "analysis_data/legacy_20261028/private_data/current_G1/code/compile_G1_report.py",
+    "sha256": "24bc5f5522cce63895d396527e0fe400739253ed2896869aa8a70e498acdae86",
+    "bytes": 15925,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_prepare_G1_audit.py",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/four_cohort_G1_latest_recheck_20261028/code/prepare_G1_audit.py",
+    "package_path": "analysis_data/legacy_20261028/private_data/current_G1/code/prepare_G1_audit.py",
+    "sha256": "87b29d5c9eea1489e91169d001f4b780e2bcda47978dcdf7194559b358967666",
+    "bytes": 9850,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_run_four_cohort_G1.do",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/four_cohort_G1_latest_recheck_20261028/code/run_four_cohort_G1.do",
+    "package_path": "analysis_data/legacy_20261028/private_data/current_G1/code/run_four_cohort_G1.do",
+    "sha256": "c4ab76b9a701d4f2811676275eb307b9adccf29422b4ff39643e91c57ea7a8d0",
+    "bytes": 6130,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_event_period_support.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/four_cohort_G1_latest_recheck_20261028/event_period_support.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/current_G1/event_period_support.csv",
+    "sha256": "46750a26a14b06e71037b6d9aa471946b16cb8223396ddf5496e04127a6c45ec",
+    "bytes": 3396,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_four_cohort_G1_latest_report.md",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/four_cohort_G1_latest_recheck_20261028/four_cohort_G1_latest_report.md",
+    "package_path": "analysis_data/legacy_20261028/private_data/current_G1/four_cohort_G1_latest_report.md",
+    "sha256": "2755ac512cddc764e73b1b5904e90475ccdbf95897a55b2bd763e7207dad6b02",
+    "bytes": 8964,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_four_cohort_time_mapping.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/four_cohort_G1_latest_recheck_20261028/four_cohort_time_mapping.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/current_G1/four_cohort_time_mapping.csv",
+    "sha256": "41f4f84f2c26e6f8f9981dc9b649e9ba455eef94ec1e4ab8c23b17484abc9995",
+    "bytes": 481,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_frozen_2013_positive_decisions.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/four_cohort_G1_latest_recheck_20261028/frozen_2013_positive_decisions.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/current_G1/frozen_2013_positive_decisions.csv",
+    "sha256": "8565ca9ad75f69ffc5e264ade8a2da520ee0f9b62e38fed9a24d6a6605dc7895",
+    "bytes": 3690,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_frozen_values_and_design_audit.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/four_cohort_G1_latest_recheck_20261028/frozen_values_and_design_audit.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/current_G1/frozen_values_and_design_audit.csv",
+    "sha256": "83d47a0be372fb43b4b83345e2437f261ecf9fcd0962ff0f8e39bf269ec169ba",
+    "bytes": 2456,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_historical_reproduction_check.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/four_cohort_G1_latest_recheck_20261028/historical_reproduction_check.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/current_G1/historical_reproduction_check.csv",
+    "sha256": "eab94e0c56511625679b80b5739d45e0fcf7dfafd0b2e98318f32811c451f2a9",
+    "bytes": 2136,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_input_integrity_after_run.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/four_cohort_G1_latest_recheck_20261028/input_integrity_after_run.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/current_G1/input_integrity_after_run.csv",
+    "sha256": "ac5a3eee6da88f4876a69376f63d0c7f479d9362a0cf0997f1229e966a6a223f",
+    "bytes": 4019,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_input_manifest.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/four_cohort_G1_latest_recheck_20261028/input_manifest.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/current_G1/input_manifest.csv",
+    "sha256": "c89b79cd144697bbcb6e81a8a0018e6f293da053bb9ff87049b1be669a0f36fb",
+    "bytes": 3016,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_latest_G1.ster",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/four_cohort_G1_latest_recheck_20261028/latest_G1.ster",
+    "package_path": "analysis_data/legacy_20261028/private_data/current_G1/latest_G1.ster",
+    "sha256": "5199ff986939dbaef3c9f25b984d05202e2f19920f590d777f92d287dae66fef",
+    "bytes": 25875,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_latest_G1_common.ster",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/four_cohort_G1_latest_recheck_20261028/latest_G1_common.ster",
+    "package_path": "analysis_data/legacy_20261028/private_data/current_G1/latest_G1_common.ster",
+    "sha256": "6a96506df1f26743a5bdb20ae50a288fc6a2b7de66f7f57c6a955563115e4518",
+    "bytes": 25889,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_latest_G1_common_estimation_sample.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/four_cohort_G1_latest_recheck_20261028/latest_G1_common_estimation_sample.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/current_G1/latest_G1_common_estimation_sample.csv",
+    "sha256": "aeb827b0a5c235da16a1bb06eb725ab637697c8f99cf411a22dbf03c43d3bb58",
+    "bytes": 833551,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_latest_G1_estimation_sample.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/four_cohort_G1_latest_recheck_20261028/latest_G1_estimation_sample.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/current_G1/latest_G1_estimation_sample.csv",
+    "sha256": "b5938e146443e9f6e8959dd979b7aaf76a1eafcd6aa419cd6d31ab8364fafcec",
+    "bytes": 833551,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_latest_G1_event.ster",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/four_cohort_G1_latest_recheck_20261028/latest_G1_event.ster",
+    "package_path": "analysis_data/legacy_20261028/private_data/current_G1/latest_G1_event.ster",
+    "sha256": "44cbcb7174ef86d90f6c17090d775d17921ddb431af288e452d04de5ed5f571c",
+    "bytes": 27360,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_latest_G1_event_sample.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/four_cohort_G1_latest_recheck_20261028/latest_G1_event_sample.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/current_G1/latest_G1_event_sample.csv",
+    "sha256": "0b59ca35cf7324113b2c9a7cd5936b84236939eb4dd7d4547204f6483fd5ce3e",
+    "bytes": 780118,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_latest_G1_sample_keys.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/four_cohort_G1_latest_recheck_20261028/latest_G1_sample_keys.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/current_G1/latest_G1_sample_keys.csv",
+    "sha256": "4954b139d69834a1a175d1d4e77b879d75dae39c241073a7699dd32c0d400bd3",
+    "bytes": 768169,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_latest_control_exclusion_evidence.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/four_cohort_G1_latest_recheck_20261028/latest_control_exclusion_evidence.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/current_G1/latest_control_exclusion_evidence.csv",
+    "sha256": "4707454abe19a3fd9c0cbbaa64ec5177df535394c433a5a6b9bcdd8b4b3a4951",
+    "bytes": 3248,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_latest_control_exclusions.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/four_cohort_G1_latest_recheck_20261028/latest_control_exclusions.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/current_G1/latest_control_exclusions.csv",
+    "sha256": "302cc95cd9b036e695d8fce101942b18badd258deac8812faec757dd1ac233dd",
+    "bytes": 22718,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_old_G1.ster",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/four_cohort_G1_latest_recheck_20261028/old_G1.ster",
+    "package_path": "analysis_data/legacy_20261028/private_data/current_G1/old_G1.ster",
+    "sha256": "df716c870f407dd787787611e05fdb58b2046733601b20f9925d213d4788fd41",
+    "bytes": 25875,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_old_G1_analysis.dta",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/four_cohort_G1_latest_recheck_20261028/old_G1_analysis.dta",
+    "package_path": "analysis_data/legacy_20261028/private_data/current_G1/old_G1_analysis.dta",
+    "sha256": "0c8c12fd34cad6de1b8f811c2e51a185fdfbf1680186e01a77f7f1433b25bf95",
+    "bytes": 3073281,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_old_G1_common.ster",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/four_cohort_G1_latest_recheck_20261028/old_G1_common.ster",
+    "package_path": "analysis_data/legacy_20261028/private_data/current_G1/old_G1_common.ster",
+    "sha256": "13f1e34dd191ad1a32259e17069831f3b834bc82d276384c8ced2f7a67a7cdbf",
+    "bytes": 25889,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_old_G1_common_estimation_sample.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/four_cohort_G1_latest_recheck_20261028/old_G1_common_estimation_sample.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/current_G1/old_G1_common_estimation_sample.csv",
+    "sha256": "f8b63311bc0da0a00f80aedef7570e831925ea29f7b5b60e967fc63e8b894dcf",
+    "bytes": 836973,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_old_G1_estimation_sample.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/four_cohort_G1_latest_recheck_20261028/old_G1_estimation_sample.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/current_G1/old_G1_estimation_sample.csv",
+    "sha256": "b89a19c37fd331ba0423fce38983c9e1c572a97f0b39de5013f22cab84243a27",
+    "bytes": 836973,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_old_G1_event.ster",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/four_cohort_G1_latest_recheck_20261028/old_G1_event.ster",
+    "package_path": "analysis_data/legacy_20261028/private_data/current_G1/old_G1_event.ster",
+    "sha256": "4ba58bd90e6ed1c55ae25f0e22bc4678de0150dfcda740b3da7c2a4e4830e852",
+    "bytes": 27360,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_old_G1_event_sample.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/four_cohort_G1_latest_recheck_20261028/old_G1_event_sample.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/current_G1/old_G1_event_sample.csv",
+    "sha256": "b1e9f08a75536adcd2fd4dc6457e52c0b10bb23e528396d9fbfd7d784ead5903",
+    "bytes": 783324,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_old_G1_sample_keys.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/four_cohort_G1_latest_recheck_20261028/old_G1_sample_keys.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/current_G1/old_G1_sample_keys.csv",
+    "sha256": "36a1a7f4351aec3b4358d5388754caede576584067e111920cb89475bc8d67d5",
+    "bytes": 771591,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_old_to_latest_changed_rows.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/four_cohort_G1_latest_recheck_20261028/old_to_latest_changed_rows.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/current_G1/old_to_latest_changed_rows.csv",
+    "sha256": "53906c8511002ea121c971f3eb9594fa34a90e4c89d6ed59ee7b2db52961a79e",
+    "bytes": 14982,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_old_to_strict_changed_rows.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/four_cohort_G1_latest_recheck_20261028/old_to_strict_changed_rows.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/current_G1/old_to_strict_changed_rows.csv",
+    "sha256": "5cfc2ea75f3737fa1725a06be5aa2b4dcf61ae2844beaff91b287f2b9b1954a7",
+    "bytes": 11345,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_pre_regression_audit_summary.json",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/four_cohort_G1_latest_recheck_20261028/pre_regression_audit_summary.json",
+    "package_path": "analysis_data/legacy_20261028/private_data/current_G1/pre_regression_audit_summary.json",
+    "sha256": "820e05cf5584e3f4b3743c2191b385dd6c52397bce032e3e01503c869e7210c8",
+    "bytes": 642,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_sample_and_coding_difference_summary.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/four_cohort_G1_latest_recheck_20261028/sample_and_coding_difference_summary.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/current_G1/sample_and_coding_difference_summary.csv",
+    "sha256": "10ed6b3c6a8b00d10895302159c14fc43d5a2971fb88a8ff6cb568234c9bafcb",
+    "bytes": 402,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_strict_G1.ster",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/four_cohort_G1_latest_recheck_20261028/strict_G1.ster",
+    "package_path": "analysis_data/legacy_20261028/private_data/current_G1/strict_G1.ster",
+    "sha256": "9962270d826b1e526f7b79f38383c3b386f33609c10799629831ac5d88f44205",
+    "bytes": 25875,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_strict_G1_analysis.dta",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/four_cohort_G1_latest_recheck_20261028/strict_G1_analysis.dta",
+    "package_path": "analysis_data/legacy_20261028/private_data/current_G1/strict_G1_analysis.dta",
+    "sha256": "38197d10d955da3a99d6942a4d7bea2ee2e34605fcff69e6935be15bce9fbe75",
+    "bytes": 3069291,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_strict_G1_estimation_sample.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/four_cohort_G1_latest_recheck_20261028/strict_G1_estimation_sample.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/current_G1/strict_G1_estimation_sample.csv",
+    "sha256": "fe13b82436cde8724237bbdc673b3e899ec34409d8b473c45788c92202ffe78a",
+    "bytes": 835837,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_strict_G1_sample_keys.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/four_cohort_G1_latest_recheck_20261028/strict_G1_sample_keys.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/current_G1/strict_G1_sample_keys.csv",
+    "sha256": "408ebf8163afd68bb506123f817e868935c9abfb6101904d45132f3cae845598",
+    "bytes": 770455,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_strict_to_latest_changed_rows.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/four_cohort_G1_latest_recheck_20261028/strict_to_latest_changed_rows.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/current_G1/strict_to_latest_changed_rows.csv",
+    "sha256": "70a1d9dbd14593d1fca3a65fe45b2ff4627a03ed703a380cb7dca439b38a9eef",
+    "bytes": 3379,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_official_table3_stack_analysis.dta",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/gao_exact_replication/outputs/official_table3_rebuild/official_table3_stack_analysis.dta",
+    "package_path": "analysis_data/legacy_20261028/private_data/source_inputs/current_G1/old_stack/official_table3_stack_analysis.dta",
+    "sha256": "5d9360d28fcc692184368e40b77be89b72d61e1d1bb95f41f08b072784207656",
+    "bytes": 27942936,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_official_table3_stack_analysis.dta",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/gao_treatment_eligibility_strict_recheck/official_table3_stack_analysis.dta",
+    "package_path": "analysis_data/legacy_20261028/private_data/source_inputs/current_G1/strict_stack/official_table3_stack_analysis.dta",
+    "sha256": "100637503dccfe76a88b87c80b160ffa48099f696339faa18729a6994343bbb9",
+    "bytes": 27906571,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_official_table3_main_models.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/gao_exact_replication/outputs/official_table3_rebuild/official_table3_main_models.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/source_inputs/current_G1/old_models/official_table3_main_models.csv",
+    "sha256": "67a4ac3ae19924c7e1605d7013ed5bfd4a2bc4f929f6a76923207122d2cff897",
+    "bytes": 458,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_official_table3_event_study.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/gao_exact_replication/outputs/official_table3_rebuild/official_table3_event_study.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/source_inputs/current_G1/old_events/official_table3_event_study.csv",
+    "sha256": "42ce4a7db40d9510e6e3b2da31087b9c975f334e1432052e7a0feea4c5571d79",
+    "bytes": 1849,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_official_table3_joint_tests.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/gao_exact_replication/outputs/official_table3_rebuild/official_table3_joint_tests.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/source_inputs/current_G1/old_joint/official_table3_joint_tests.csv",
+    "sha256": "1a9e50129e5cd138cc26d0c40ce921673e5cf31e65dc7181294dce56de43fc26",
+    "bytes": 487,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_strict_2013_manual_recheck_main_models.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/gao_treatment_eligibility_strict_recheck/strict_2013_manual_recheck_main_models.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/source_inputs/current_G1/strict_models/strict_2013_manual_recheck_main_models.csv",
+    "sha256": "653e41d12bf3dcb4d8dcea41c4ba79df06b36c82cdd6520b4f95f80df210dae3",
+    "bytes": 459,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_strict_2013_manual_recheck_event_study.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/gao_treatment_eligibility_strict_recheck/strict_2013_manual_recheck_event_study.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/source_inputs/current_G1/strict_events/strict_2013_manual_recheck_event_study.csv",
+    "sha256": "63efb4366c1c7b74e9b6fea96e94579d12a4af27bf81a1ca575e6a56b99e754a",
+    "bytes": 1848,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_strict_2013_manual_recheck_joint_tests.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/gao_treatment_eligibility_strict_recheck/strict_2013_manual_recheck_joint_tests.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/source_inputs/current_G1/strict_joint/strict_2013_manual_recheck_joint_tests.csv",
+    "sha256": "e8b209b9aed39c6baff364d7b832e9e1a44a9a2e635fc6eddd3edc1e56e9b311",
+    "bytes": 487,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_strict_2013_manual_eligibility_decisions.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/gao_treatment_eligibility_strict_recheck/strict_2013_manual_eligibility_decisions.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/source_inputs/current_G1/strict_decisions/strict_2013_manual_eligibility_decisions.csv",
+    "sha256": "bce5487f08b273b8b8095dc9843e44ce532bf0459dcce44ef1635cd238bf530d",
+    "bytes": 1979330,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_official_table3_corrected_first_treat.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/gao_treatment_eligibility_strict_recheck/official_table3_corrected_first_treat.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/source_inputs/current_G1/strict_first_treat/official_table3_corrected_first_treat.csv",
+    "sha256": "840e596a1fd52d835a5f99286ae841e83b31f58660500125dfdadfc46f9444f7",
+    "bytes": 603380,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_confirmed_policy_evidence.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/static_model_correction_20261028/confirmed_policy_evidence.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/source_inputs/current_G1/confirmed_evidence/confirmed_policy_evidence.csv",
+    "sha256": "236ac60027bb666f209f957337770b14a2ae3da52f01ec14ff1bd7f3a61da28a",
+    "bytes": 4682737,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_confirmed_earlier_treatment_corrections.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/first_treatment_validity_audit/confirmed_earlier_treatment_corrections.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/source_inputs/current_G1/confirmed_earlier57/confirmed_earlier_treatment_corrections.csv",
+    "sha256": "903ff85c67c05fba929203a253366a1e1ec04ddee37ab4d21df0ee694d70478a",
+    "bytes": 20640,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_complete_late_cohort_report.md",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/complete_late_cohort_rerun/complete_late_cohort_report.md",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/complete_late_cohort_rerun/complete_late_cohort_report.md",
+    "sha256": "a82c4267863c7f31b875486e4db046d7cba23f7b7d1ffb120432d51159d63067",
+    "bytes": 3533,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_adjudicated_late_cohort_report.md",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/adjudicated_late_cohort_rerun/adjudicated_late_cohort_report.md",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/adjudicated_late_cohort_rerun/adjudicated_late_cohort_report.md",
+    "sha256": "4ba2fecec3bec21a04689bc0016775836973397deede3ab37f16a16542b35f7d",
+    "bytes": 2900,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_first_treatment_validity_final_report.md",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/first_treatment_validity_audit/first_treatment_validity_final_report.md",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/first_treatment_validity_audit/first_treatment_validity_final_report.md",
+    "sha256": "8e8a70c5a3386efdbe4dad680bdcbcd02436bb797a64b0a4830bb54589b38580",
+    "bytes": 2148,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_late_policy_cohort_audit_report.md",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/late_policy_cohort_audit/late_policy_cohort_audit_report.md",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/late_policy_cohort_audit/late_policy_cohort_audit_report.md",
+    "sha256": "09fbffb269665e2ae37577336766d66d28ea08f0bdabe1102f2f0c4beb8fdbb3",
+    "bytes": 5115,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_gao_control_construction_audit.md",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/gao_full_controls/gao_control_construction_audit.md",
+    "package_path": "analysis_data/legacy_20261028/private_data/upstream/gao_full_controls/gao_control_construction_audit.md",
+    "sha256": "00c31b9a5a583ff94fda46cd0317a3195bfc0bc9b4125d75785e81b0e46e3f15",
+    "bytes": 6619,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_24_run_strict_2013_manual_recheck.do",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/gao_treatment_eligibility_strict_recheck/24_run_strict_2013_manual_recheck.do",
+    "package_path": "analysis_data/legacy_20261028/private_data/source_inputs/current_G1/historical_G1_code/24_run_strict_2013_manual_recheck.do",
+    "sha256": "ba78116b40fbcf8d8ff65124c484bc95291eb0c9fda96eb4397009b0e7d83315",
+    "bytes": 5116,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_manual_review_decisions.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/年报指引识别/explicit_audit/manual_review_decisions.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/年报指引识别/explicit_audit/manual_review_decisions.csv",
+    "sha256": "83610d272d7f3dd397c0e8b9aedce3fb40ed57d121c35b3dc23734cd8fd29e26",
+    "bytes": 2060,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_candidate_explicit_strict_confirmed.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/年报指引识别/explicit_audit/candidate_explicit_strict_confirmed.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/年报指引识别/explicit_audit/candidate_explicit_strict_confirmed.csv",
+    "sha256": "961e00f4e20c176c4d7507c9d9be00004122b1ea96c70fc171e5580fea6f7888",
+    "bytes": 219575,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_earlier_treatment_confirmed.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/年报指引识别/explicit_audit/earlier_treatment_confirmed.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/年报指引识别/explicit_audit/earlier_treatment_confirmed.csv",
+    "sha256": "3208651435da5794e8635ededa99cdea323a5884645540c58ed15ccc52301c7d",
+    "bytes": 664733,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_explicit_audit_report.md",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/年报指引识别/explicit_audit/explicit_audit_report.md",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/年报指引识别/explicit_audit/explicit_audit_report.md",
+    "sha256": "ff5eaf2c5b5b7c791e07db5b8734ce6cf0633126c7a5171d018e8eb4aa239d00",
+    "bytes": 1065,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_mda_confirmed_business.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/年报指引识别/explicit_audit/mda_audit/mda_confirmed_business.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/年报指引识别/explicit_audit/mda_audit/mda_confirmed_business.csv",
+    "sha256": "1bf9efbea2c4e8f60c1240450a703091f14046e65d19111511db22e3289d0038",
+    "bytes": 1600882,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_mda_text_identification_report.md",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/年报指引识别/explicit_audit/mda_audit/mda_text_identification_report.md",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/年报指引识别/explicit_audit/mda_audit/mda_text_identification_report.md",
+    "sha256": "e1c777c977781abde79987ed53f1e0d69f07a4761c6842c728e48a24a6cf421d",
+    "bytes": 1939,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_gao_firm_iidg_mapping_core.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/年报指引识别/final_mapping/gao_firm_iidg_mapping_core.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/年报指引识别/final_mapping/gao_firm_iidg_mapping_core.csv",
+    "sha256": "c3c7bc2075daf4a9d1b46bd01cd1220bce68b64795bc46c97a555f6331a9e9df",
+    "bytes": 1788460,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_gao_firm_first_treat_core.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/年报指引识别/final_mapping/gao_firm_first_treat_core.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/年报指引识别/final_mapping/gao_firm_first_treat_core.csv",
+    "sha256": "bea0f7a00422fe3978ee067567ad3c6c8a2e99b24d0e7f993433cf49eb6d9bce",
+    "bytes": 501328,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_gao_firm_iidg_evidence_all.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/年报指引识别/final_mapping/gao_firm_iidg_evidence_all.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/年报指引识别/final_mapping/gao_firm_iidg_evidence_all.csv",
+    "sha256": "fcee5b6fed87b299cda9307e7b8489b2a5c8a58a1b874564a06147153e9f7abe",
+    "bytes": 5363147,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_gao_mapping_low_memory_report.md",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/年报指引识别/final_mapping/gao_mapping_low_memory_report.md",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/年报指引识别/final_mapping/gao_mapping_low_memory_report.md",
+    "sha256": "a1d9ddc965b8a1b5d81326f4f542728764b941a3cf3fb1243177e45f3b03e232",
+    "bytes": 2095,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_targeted_2013_cninfo_rule_evidence.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/gao_treatment_eligibility_strict_recheck/targeted_2013_cninfo_rule_evidence.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/gao_treatment_eligibility_strict_recheck/targeted_2013_cninfo_rule_evidence.csv",
+    "sha256": "031947904f609b59a98fb3fbb20f6bbbb649831d4ed9e5c00372d57299994e3e",
+    "bytes": 1770307,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_gao_firm_iidg_mapping_supplemented.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/gao_exact_replication/outputs/targeted_supplement/gao_firm_iidg_mapping_supplemented.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/gao_exact_replication/outputs/targeted_supplement/gao_firm_iidg_mapping_supplemented.csv",
+    "sha256": "a54f39dbe20a033dc7bdbdae9292b45449f7e6853163ca13a99a0fbf315f50ca",
+    "bytes": 4619960,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_gao_firm_first_treat_supplemented.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/gao_exact_replication/outputs/targeted_supplement/gao_firm_first_treat_supplemented.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/gao_exact_replication/outputs/targeted_supplement/gao_firm_first_treat_supplemented.csv",
+    "sha256": "92f7fa47a8f887349a27d6813ab93b71922dfc9142b3356ad4e2c70b04aa07d6",
+    "bytes": 578552,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_targeted_annual_report_evidence.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/gao_exact_replication/outputs/targeted_supplement/targeted_annual_report_evidence.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/gao_exact_replication/outputs/targeted_supplement/targeted_annual_report_evidence.csv",
+    "sha256": "925b984e2c79d6a941b08222a94ef9ad09506bce18c7173d614d751a789aa61d",
+    "bytes": 2656459,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_annual_report_keep_manifest.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/gao_exact_replication/outputs/targeted_supplement/annual_report_keep_manifest.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/gao_exact_replication/outputs/targeted_supplement/annual_report_keep_manifest.csv",
+    "sha256": "0b37b54814712759d2dff939d1684743266aa450edde9a740b0d1fe383134e3c",
+    "bytes": 381383,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_annual_report_deletion_log.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/gao_exact_replication/outputs/targeted_supplement/annual_report_deletion_log.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/gao_exact_replication/outputs/targeted_supplement/annual_report_deletion_log.csv",
+    "sha256": "6c77e6fc40cbb5e92f444c5a65fa62e5c7db0b456d5283692bcfc5a2ee6b2e6a",
+    "bytes": 9633385,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_annual_report_deletion_summary.md",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/gao_exact_replication/outputs/targeted_supplement/annual_report_deletion_summary.md",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/gao_exact_replication/outputs/targeted_supplement/annual_report_deletion_summary.md",
+    "sha256": "427d2fdcb1f8e96e28d1404f02ab32c87309a4b4b4bc900d08d0387c67afb16b",
+    "bytes": 870,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_code300_policy_scope_audit.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/first_treatment_validity_audit/code300_policy_scope_audit.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/first_treatment_validity_audit/code300_policy_scope_audit.csv",
+    "sha256": "a516429f613b12bc636e298fe850c740709aac58f5e5dea4d4194b9fce484b79",
+    "bytes": 1074,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_earlier_all_year_mapping_evidence.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/first_treatment_validity_audit/earlier_all_year_mapping_evidence.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/first_treatment_validity_audit/earlier_all_year_mapping_evidence.csv",
+    "sha256": "badcd5124da87edffdcae9efefb35cd51766925c1731c61f93cbf5d7ddbb8b17",
+    "bytes": 4603,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_earlier_annual_report_candidate_evidence.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/first_treatment_validity_audit/earlier_annual_report_candidate_evidence.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/first_treatment_validity_audit/earlier_annual_report_candidate_evidence.csv",
+    "sha256": "837c8b12ff5d4a8c6bc4b9c0b7f69ea4776c274b60f2941223702f3034a619cd",
+    "bytes": 1461182,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_earlier_strict_annual_report_evidence.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/first_treatment_validity_audit/earlier_strict_annual_report_evidence.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/first_treatment_validity_audit/earlier_strict_annual_report_evidence.csv",
+    "sha256": "0f9b4961287d3e586aeb7c5c85880d803941fbdb7f2abdbfa48d4b143200bee0",
+    "bytes": 195820,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_first_treatment_manual_review_queue.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/first_treatment_validity_audit/first_treatment_manual_review_queue.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/first_treatment_validity_audit/first_treatment_manual_review_queue.csv",
+    "sha256": "866ba2e8d9a5349d0e1a484bd1e5cf2abbb9d8d89296550eab29312051dbaf96",
+    "bytes": 11263,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_first_treatment_validity_firm_audit.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/first_treatment_validity_audit/first_treatment_validity_firm_audit.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/first_treatment_validity_audit/first_treatment_validity_firm_audit.csv",
+    "sha256": "8c11bb9075576409e551d18e23da7ce2b004fd8e318c064cdef4726ace2d3752",
+    "bytes": 100027,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_first_treatment_validity_firm_audit_final.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/first_treatment_validity_audit/first_treatment_validity_firm_audit_final.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/first_treatment_validity_audit/first_treatment_validity_firm_audit_final.csv",
+    "sha256": "d5b7bda31e4533670d083c7d966ebdce3adc70291ed93bc2420aff907446f21f",
+    "bytes": 154837,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_first_treatment_validity_report.md",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/first_treatment_validity_audit/first_treatment_validity_report.md",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/first_treatment_validity_audit/first_treatment_validity_report.md",
+    "sha256": "ca6d8d9781e21b1b8589019a6c6f0e4aa2808559bdc05ab9b5f6691b70155407",
+    "bytes": 2264,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_first_treatment_validity_summary.json",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/first_treatment_validity_audit/first_treatment_validity_summary.json",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/first_treatment_validity_audit/first_treatment_validity_summary.json",
+    "sha256": "1aca610ad67b6f6e5aefe720172607143b758cabac25fe44373b1c17a6acb459",
+    "bytes": 1204,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_first_treatment_validity_summary_final.json",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/first_treatment_validity_audit/first_treatment_validity_summary_final.json",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/first_treatment_validity_audit/first_treatment_validity_summary_final.json",
+    "sha256": "08cc1a592c27e5d4419eb327c5cbd80a9508b9deaee6fa71b0bd77eb8a443979",
+    "bytes": 347,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_manual_review_adjudication.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/first_treatment_validity_audit/manual_review_adjudication.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/first_treatment_validity_audit/manual_review_adjudication.csv",
+    "sha256": "f36ed02b8ee4e6529295c5610e3effefeced8f8d74a014b8a39defd6529e25f2",
+    "bytes": 10442,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_provisional_2020_first_treatment_firms.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/first_treatment_validity_audit/provisional_2020_first_treatment_firms.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/first_treatment_validity_audit/provisional_2020_first_treatment_firms.csv",
+    "sha256": "a51d9a8dfb72cc6885e8dbc0411e0179514730a8d22c1667c67894461881cdfa",
+    "bytes": 134698,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_complete_event_cell_audit.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/complete_late_cohort_rerun/complete_event_cell_audit.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/complete_late_cohort_rerun/complete_event_cell_audit.csv",
+    "sha256": "dd6bdc63b3e04a80aeb95618c657f0d4bff3d728e6772e0a809fa376a7f5f1c1",
+    "bytes": 1355,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_complete_first_treat_year.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/complete_late_cohort_rerun/complete_first_treat_year.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/complete_late_cohort_rerun/complete_first_treat_year.csv",
+    "sha256": "283720017e28c0205b9d2fa30a926cb660f57eadfffcd9b4e65e543afe0dc3fa",
+    "bytes": 685995,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_complete_late_cohort_build_summary.json",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/complete_late_cohort_rerun/complete_late_cohort_build_summary.json",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/complete_late_cohort_rerun/complete_late_cohort_build_summary.json",
+    "sha256": "ad226f5bf9e4f16b75a7003145e93cf4a77a4b7f607b7f8f429e822ef4a7ba08",
+    "bytes": 910,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_complete_late_cohort_by_cohort.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/complete_late_cohort_rerun/complete_late_cohort_by_cohort.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/complete_late_cohort_rerun/complete_late_cohort_by_cohort.csv",
+    "sha256": "f70727594ec09641d39da2098c938abffd1a5d7f8b4396addff2c98ab9a428d4",
+    "bytes": 2114,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_complete_late_cohort_event_results.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/complete_late_cohort_rerun/complete_late_cohort_event_results.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/complete_late_cohort_rerun/complete_late_cohort_event_results.csv",
+    "sha256": "c97c2b1b34bd4af919cad1f34c72dfeb0a903ebfe9ac11887b80f90d87f5d6de",
+    "bytes": 1702,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_complete_late_cohort_joint_tests.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/complete_late_cohort_rerun/complete_late_cohort_joint_tests.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/complete_late_cohort_rerun/complete_late_cohort_joint_tests.csv",
+    "sha256": "fd6a7ea071832b538ee0d3572e80fd26e3db5af34dbbfe40493e28bf81a30bc9",
+    "bytes": 499,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_complete_late_cohort_main_results.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/complete_late_cohort_rerun/complete_late_cohort_main_results.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/complete_late_cohort_rerun/complete_late_cohort_main_results.csv",
+    "sha256": "9ccfc44deff9f525171011b318a71fe7097da51cbe96e416217560c5562c3ecc",
+    "bytes": 428,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_complete_late_cohort_mapping.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/complete_late_cohort_rerun/complete_late_cohort_mapping.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/adjudicated_late_cohort_rerun/complete_late_cohort_mapping.csv",
+    "sha256": "2eabcc441a51486ff34a2f8cd358e8d9fbd479d85a14ece53ffec7fe140b28e3",
+    "bytes": 2102536,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_complete_late_cohort_run_manifest.json",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/complete_late_cohort_rerun/complete_late_cohort_run_manifest.json",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/complete_late_cohort_rerun/complete_late_cohort_run_manifest.json",
+    "sha256": "553bfcd3105fabca6569faecec5143ab37a993097fc922dc182cf8c98df3f0ba",
+    "bytes": 1803,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_complete_stack_cohort_audit.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/complete_late_cohort_rerun/complete_stack_cohort_audit.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/complete_late_cohort_rerun/complete_stack_cohort_audit.csv",
+    "sha256": "f6be7c64a8e9692136120d6048174740456a51c25eb709d82ff1e3514fc577c1",
+    "bytes": 365,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_first_treat_transition_audit.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/complete_late_cohort_rerun/first_treat_transition_audit.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/complete_late_cohort_rerun/first_treat_transition_audit.csv",
+    "sha256": "e790a83fa8c60d509a84f29c7dbfd84198d0c5ff4bb10af0a42a7f1fbcd02258",
+    "bytes": 449,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_late_cohort_mapping_additions.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/complete_late_cohort_rerun/late_cohort_mapping_additions.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/adjudicated_late_cohort_rerun/late_cohort_mapping_additions.csv",
+    "sha256": "57ce8c305a5952b2a6b799345aac6c4b94773189efb0daaa5b90f3ac04479f58",
+    "bytes": 302295,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_old_stack_reproduction_audit.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/complete_late_cohort_rerun/old_stack_reproduction_audit.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/adjudicated_late_cohort_rerun/old_stack_reproduction_audit.csv",
+    "sha256": "3bb431f87e508e4fc768aaefd2a89df01061368160ce2a3e85c5ef8cad304254",
+    "bytes": 412,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_old_vs_complete_event_results.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/complete_late_cohort_rerun/old_vs_complete_event_results.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/complete_late_cohort_rerun/old_vs_complete_event_results.csv",
+    "sha256": "359b6993be32c5cbbd1c4dbb529b7612df1d31fd12fdcd55ceb72affa2bde121",
+    "bytes": 3726,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_old_vs_complete_main_results.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/complete_late_cohort_rerun/old_vs_complete_main_results.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/complete_late_cohort_rerun/old_vs_complete_main_results.csv",
+    "sha256": "6528b61f982773a1bc6167f5d287e057cc08bea711ebafddebf87767811a3b51",
+    "bytes": 850,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_old_vs_complete_stack_comparison.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/complete_late_cohort_rerun/old_vs_complete_stack_comparison.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/complete_late_cohort_rerun/old_vs_complete_stack_comparison.csv",
+    "sha256": "b2e40572a5018b4f1247d78de91cb2a1a47cb9c9f436a3b2e0d8501a41ecc28d",
+    "bytes": 932,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_adjudicated_event_cell_audit.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/adjudicated_late_cohort_rerun/adjudicated_event_cell_audit.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/adjudicated_late_cohort_rerun/adjudicated_event_cell_audit.csv",
+    "sha256": "e3e966ce5172d2f5da34036a04fa3646bcd98cfc0ead32f3a39d956070c5859a",
+    "bytes": 1355,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_adjudicated_run_manifest.json",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/adjudicated_late_cohort_rerun/adjudicated_run_manifest.json",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/adjudicated_late_cohort_rerun/adjudicated_run_manifest.json",
+    "sha256": "7141f9f08f38b1ee7790e7878bb541aaf672f9d3459ee4b74378785c1ff65507",
+    "bytes": 2889,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_adjudicated_vs_unadjudicated_event_results.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/adjudicated_late_cohort_rerun/adjudicated_vs_unadjudicated_event_results.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/adjudicated_late_cohort_rerun/adjudicated_vs_unadjudicated_event_results.csv",
+    "sha256": "e7a7d045df02792bb83ab7bb2980e8fd3ed93c9d56f289f34a25c582ecf9d9bf",
+    "bytes": 3681,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_adjudicated_vs_unadjudicated_joint_tests.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/adjudicated_late_cohort_rerun/adjudicated_vs_unadjudicated_joint_tests.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/adjudicated_late_cohort_rerun/adjudicated_vs_unadjudicated_joint_tests.csv",
+    "sha256": "1fb028f7acea1ca0794367d87dd2a9d2b63074f99e7fe5b4caf2766e0855dad3",
+    "bytes": 949,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_adjudicated_vs_unadjudicated_main_results.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/adjudicated_late_cohort_rerun/adjudicated_vs_unadjudicated_main_results.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/adjudicated_late_cohort_rerun/adjudicated_vs_unadjudicated_main_results.csv",
+    "sha256": "5d5eca3e8bc70758852d05b125acac75a222dd66f9a31689bfdde6b6883c88d6",
+    "bytes": 1148,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_complete_first_treat_year.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/adjudicated_late_cohort_rerun/complete_first_treat_year.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/adjudicated_late_cohort_rerun/complete_first_treat_year.csv",
+    "sha256": "89fef61392104a7260addaef56896d29c509bd93714ef3db9b8c9d723b6b4534",
+    "bytes": 770023,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_complete_late_cohort_build_summary.json",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/adjudicated_late_cohort_rerun/complete_late_cohort_build_summary.json",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/adjudicated_late_cohort_rerun/complete_late_cohort_build_summary.json",
+    "sha256": "1f94871af47fe9e508c96ab5879d08854c6bbdae57148dbb86105574f8d31b64",
+    "bytes": 1269,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_complete_late_cohort_by_cohort.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/adjudicated_late_cohort_rerun/complete_late_cohort_by_cohort.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/adjudicated_late_cohort_rerun/complete_late_cohort_by_cohort.csv",
+    "sha256": "787d42afa8cbc753f13085aff899e0a83b34bb5bb4f16cb85075ad4668ae50ae",
+    "bytes": 2119,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_complete_late_cohort_event_results.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/adjudicated_late_cohort_rerun/complete_late_cohort_event_results.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/adjudicated_late_cohort_rerun/complete_late_cohort_event_results.csv",
+    "sha256": "f8407f9301d87ccccfca122473a9ffbf192b0d84c2f76b243f46153e3e5e7dad",
+    "bytes": 1692,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_complete_late_cohort_joint_tests.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/adjudicated_late_cohort_rerun/complete_late_cohort_joint_tests.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/adjudicated_late_cohort_rerun/complete_late_cohort_joint_tests.csv",
+    "sha256": "9367a9735dcae29689aaa03480c535917525d9e807a1c8331c43f959eb22ce6a",
+    "bytes": 499,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_complete_late_cohort_main_results.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/adjudicated_late_cohort_rerun/complete_late_cohort_main_results.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/adjudicated_late_cohort_rerun/complete_late_cohort_main_results.csv",
+    "sha256": "ca5f9fd2c6d240bab1e5542e610de68036b747862a58586513c7efb14b58f7ac",
+    "bytes": 430,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_complete_late_cohort_mapping.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/adjudicated_late_cohort_rerun/complete_late_cohort_mapping.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/adjudicated_late_cohort_rerun/complete_late_cohort_mapping.csv",
+    "sha256": "2eabcc441a51486ff34a2f8cd358e8d9fbd479d85a14ece53ffec7fe140b28e3",
+    "bytes": 2102536,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_complete_stack_cohort_audit.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/adjudicated_late_cohort_rerun/complete_stack_cohort_audit.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/adjudicated_late_cohort_rerun/complete_stack_cohort_audit.csv",
+    "sha256": "e26f17231310c6ec35bef2d1827ad8a0d419bfb24251d03ccbdf797857161553",
+    "bytes": 365,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_first_treat_adjudication_override_audit.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/adjudicated_late_cohort_rerun/first_treat_adjudication_override_audit.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/adjudicated_late_cohort_rerun/first_treat_adjudication_override_audit.csv",
+    "sha256": "ff5ceb2a6bb5fc35879a6a6cd523f69b1e1afc5b923ef83815d41512a22c0258",
+    "bytes": 65062,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_first_treat_transition_audit.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/adjudicated_late_cohort_rerun/first_treat_transition_audit.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/adjudicated_late_cohort_rerun/first_treat_transition_audit.csv",
+    "sha256": "9681b23d1e1000d0452055a043b5048e96a7fddfd0179de87c7f79d4496452d2",
+    "bytes": 545,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_late_cohort_mapping_additions.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/adjudicated_late_cohort_rerun/late_cohort_mapping_additions.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/adjudicated_late_cohort_rerun/late_cohort_mapping_additions.csv",
+    "sha256": "57ce8c305a5952b2a6b799345aac6c4b94773189efb0daaa5b90f3ac04479f58",
+    "bytes": 302295,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_old_stack_reproduction_audit.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/adjudicated_late_cohort_rerun/old_stack_reproduction_audit.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/adjudicated_late_cohort_rerun/old_stack_reproduction_audit.csv",
+    "sha256": "3bb431f87e508e4fc768aaefd2a89df01061368160ce2a3e85c5ef8cad304254",
+    "bytes": 412,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_old_vs_complete_stack_comparison.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/adjudicated_late_cohort_rerun/old_vs_complete_stack_comparison.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/adjudicated_late_cohort_rerun/old_vs_complete_stack_comparison.csv",
+    "sha256": "ec1c3cbcf3975f4eb9904977700552a0c511c8a79f92da502dbcbad07fe4018e",
+    "bytes": 932,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_late_policy_cohort_audit_summary.json",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/late_policy_cohort_audit/late_policy_cohort_audit_summary.json",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/late_policy_cohort_audit/late_policy_cohort_audit_summary.json",
+    "sha256": "aa5f25d65648b746f616afeae173f01703ea21fd483c968948317271b6a47ce2",
+    "bytes": 1714,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_late_policy_cohort_policy_audit.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/late_policy_cohort_audit/late_policy_cohort_policy_audit.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/late_policy_cohort_audit/late_policy_cohort_policy_audit.csv",
+    "sha256": "89e84d6980cecb57b224621893eb73d5fd8a6d26595dfcf59c5801b4a3bb9af7",
+    "bytes": 15221,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_late_policy_missing_candidate_pairs.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/late_policy_cohort_audit/late_policy_missing_candidate_pairs.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/late_policy_cohort_audit/late_policy_missing_candidate_pairs.csv",
+    "sha256": "86429f6f362072ea19b074cbc4d2a02529842e0ce488e1ac4779a74acd7fea3d",
+    "bytes": 457543,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_late_policy_positive_specific_evidence.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/late_policy_cohort_audit/late_policy_positive_specific_evidence.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/late_policy_cohort_audit/late_policy_positive_specific_evidence.csv",
+    "sha256": "d92b446a0b25e7f585cc93cd1a6e54547ac776cf06999bb59d68d10291d3e370",
+    "bytes": 940753,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_sz_2021_explicit_mapping_gap.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/late_policy_cohort_audit/sz_2021_explicit_mapping_gap.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/policy_evidence/late_cohorts/late_policy_cohort_audit/sz_2021_explicit_mapping_gap.csv",
+    "sha256": "b7d787c4b2de89ddd1308e93276852932bd421fef61946de1327cd2c354ee1e4",
+    "bytes": 161241,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_gao_controls_firm_year_2009_2025.dta",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/gao_full_controls/gao_controls_firm_year_2009_2025.dta",
+    "package_path": "analysis_data/legacy_20261028/private_data/upstream/gao_full_controls/gao_controls_firm_year_2009_2025.dta",
+    "sha256": "2b1d7b6b0eea16916674f09b391fbd08d3a14b5625878944e1df0610d3fa3ae8",
+    "bytes": 44758298,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_gao_control_formula_audit.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/gao_full_controls/gao_control_formula_audit.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/upstream/gao_full_controls/gao_control_formula_audit.csv",
+    "sha256": "9fde86fd21bd859bea096d47488729a2ffcd6fa3114343376366d7703ec2ce9f",
+    "bytes": 7003,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_gao_control_coverage_by_year.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/gao_full_controls/gao_control_coverage_by_year.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/upstream/gao_full_controls/gao_control_coverage_by_year.csv",
+    "sha256": "1400a52e3f2a06bee77ad5b96cb0bbe33ca71a75fc2650508a9b3d17be52ca4e",
+    "bytes": 24298,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_syn_csrc_family_2010_2020.dta",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/gao_exact_replication/outputs/syn_csrc_family_2010_2020.dta",
+    "package_path": "analysis_data/legacy_20261028/private_data/upstream/gao_exact_replication/outputs/syn_csrc_family_2010_2020.dta",
+    "sha256": "372788d25f2d5eea083af1526a672acba219f96af14cd78a69ecd00f9df49239",
+    "bytes": 1062841,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_syn_csrc_family_build_audit.json",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/gao_exact_replication/outputs/syn_csrc_family_build_audit.json",
+    "package_path": "analysis_data/legacy_20261028/private_data/upstream/gao_exact_replication/outputs/syn_csrc_family_build_audit.json",
+    "sha256": "60e1f02b846dfc437aea315a1f17a2be0588cd8bfc4d4ec27389ce94d776b56f",
+    "bytes": 955,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_exact_replication_winsor_cutoffs.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/gao_exact_replication/outputs/exact_replication_winsor_cutoffs.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/upstream/gao_exact_replication/outputs/exact_replication_winsor_cutoffs.csv",
+    "sha256": "ae0981f779369273cc4c82f0b5d632e5efdb43aeb1dc238f178331c6bd20289a",
+    "bytes": 1091,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_cohort_2012_fixed_winsor_cutoffs.csv",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/gao_exact_replication/outputs/targeted_supplement/cohort_2012/fixed_models/cohort_2012_fixed_winsor_cutoffs.csv",
+    "package_path": "analysis_data/legacy_20261028/private_data/upstream/gao_exact_replication/outputs/targeted_supplement/cohort_2012/fixed_models/cohort_2012_fixed_winsor_cutoffs.csv",
+    "sha256": "fb474a7b9a5ea48ee79dc994a2b669033dedca9bb7c7a0aba69f60f50d13516a",
+    "bytes": 967,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "legacy_input_gao_controls_firm_year_true_data_repaired.dta",
+    "original_path": "/Users/macpro/Desktop/毕业论文/堆叠DID重跑/gao_exact_replication/outputs/targeted_supplement/control_coverage_repair/gao_controls_firm_year_true_data_repaired.dta",
+    "package_path": "analysis_data/legacy_20261028/private_data/upstream/gao_exact_replication/outputs/targeted_supplement/control_coverage_repair/gao_controls_firm_year_true_data_repaired.dta",
+    "sha256": "0816aad437927504b5afdb0d6b8acea4875adeaac55b70ae8950fb32c487dd12",
+    "bytes": 44255970,
+    "status": "existing_legacy_input",
+    "verification": "preserved_original_source_manifest_SHA256"
+  },
+  {
+    "role": "original_Gao_construction_entry",
+    "original_path": "/Users/macpro/Documents/New project/gao_full_controls_work/construct_gao_full_controls.py",
+    "package_path": "construct_gao_full_controls_original.py",
+    "sha256": "5cd2c6c7672b9d6e8295c2e5c0a8c076a9c29266cc5467f480de9765830b236a",
+    "bytes": 54837,
+    "status": "original_code_copy; path edits apply only in isolated workspace",
+    "verification": "original_source_SHA256"
+  }
+]
